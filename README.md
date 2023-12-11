@@ -1,4 +1,7 @@
 # MAXimator-PONG-HDMI-max1000
+
+Group ATLAS in Telegram: https://t.me/INICIATIVAATLAS
+
 Es el núcleo de un pong para aquellos que quieren tener uno en su MAX1000 con La placa de E/S ATLAS:
 Port of a maximator pong into MAX1000 with I/O Board ATLAS.
 
